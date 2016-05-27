@@ -1,0 +1,21 @@
+
+{
+    "name": "retrorism/exchange-gravity-forms-acf-field",
+    "description": "Plugin to add a Gravity Forms selection option to ACF.",
+    "authors":  [
+      {
+        "name": "Adam Pope",
+        "homepage": "https://www.stormconsultancy.co.uk/"
+      },
+      {
+        "name": "Liam Gladdy",
+        "homepage": "https://www.stormconsultancy.co.uk/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "source": {
+        "url": "https://github.com/retrorism/retrorism/exchange-gravity-forms-acf-field",
+        "type": "git",
+        "reference": "master"
+    }
+}
